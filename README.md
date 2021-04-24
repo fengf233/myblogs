@@ -1,14 +1,14 @@
 # 前言
 
-> An awesome project.
+> 随便写写
 
 
 
 
 
-# 基础知识
+# 计算机基础
 
-- [Git用法总结](docs/basic_knowledge/Git用法总结.md)
+- [Git用法总结](docs/computer_basics/Git用法总结.md)
 
 
 
@@ -16,21 +16,51 @@
 
 # 计算机网络
 
-> some 
+
+
+## 物理/链路层
+
+
+
+## 网络/传输层
+
+
+
+## 应用层
 
 
 
 
 
-# Python
+# 编程语言
+
+
+
+## Python
+
+
+
+## javascript
+
+
+
+## lua
+
+
+
+## golang
+
+
+
+# 前端技术
+
+
+
+## 基础知识
 
 
 
 
 
-
-
-# 前端
-
-
+# 安全技术
 
