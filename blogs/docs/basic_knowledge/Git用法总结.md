@@ -1,14 +1,3 @@
----
-layout:     post
-title:      Git用法总结
-subtitle:   
-date:       2019-09-01
-author:     Mehaei
-header-img: img/home-bg-geek.jpg
-catalog: true
-tags:
-    - python
----
 ### 本地仓库的操作
 
 **配置用户名**:`git config --global user.name "你自己的用户名(github)"`
