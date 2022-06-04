@@ -1,58 +1,83 @@
-## 前言
 
-> 随便写写
-
-
-
-
-
-## 计算机基础
-
-- [Git用法总结](docs/computer_basics/Git用法总结.md)
-
-
-
-
+## Linux相关
+- [离线apt安装升级](docs/Linux相关/离线apt安装升级.md)
+- [tmux使用](docs/Linux相关/tmux使用.md)
+- [搭建syslog-ngserver记录log](docs/Linux相关/搭建syslog-ngserver记录log.md)
+- [Jmeter简单使用总结](docs/Linux相关/Jmeter简单使用总结.md)
+- [RouterOS安装以及搭建DHCPPPPoEPPTPL2TP服务](docs/Linux相关/RouterOS安装以及搭建DHCPPPPoEPPTPL2TP服务.md)
+- [docker简单上手](docs/Linux相关/docker简单上手.md)
+- [Ubuntu安装Gitlab简记](docs/Linux相关/Ubuntu安装Gitlab简记.md)
+- [Makefile使用(转载)](docs/Linux相关/Makefile使用(转载).md)
+- [dhcpv6+radvd服务器搭建](docs/Linux相关/dhcpv6+radvd服务器搭建.md)
+- [gcc使用(转载)](docs/Linux相关/gcc使用(转载).md)
+- [freeradius简单配置](docs/Linux相关/freeradius简单配置.md)
+- [objdump二进制分析](docs/Linux相关/objdump二进制分析.md)
 
 ## 计算机网络
+- [beacon帧字段结构最全总结（三）——VHT字段总结](docs/计算机网络/beacon帧字段结构最全总结（三）——VHT字段总结.md)
+- [beacon帧字段结构最全总结（二）——HT字段总结](docs/计算机网络/beacon帧字段结构最全总结（二）——HT字段总结.md)
+- [802.11ac速率集](docs/计算机网络/802.11ac速率集.md)
+- [beacon帧字段结构最全总结（一）——beacon基本结构](docs/计算机网络/beacon帧字段结构最全总结（一）——beacon基本结构.md)
+- [HTTPS加密流程理解](docs/计算机网络/HTTPS加密流程理解.md)
+- [wifi各协议最高速率](docs/计算机网络/wifi各协议最高速率.md)
+- [证书链](docs/计算机网络/证书链.md)
+- [IPv6笔记-地址结构与分类](docs/计算机网络/IPv6笔记-地址结构与分类.md)
+- [HTTP知识点总结](docs/计算机网络/HTTP知识点总结.md)
+- [802.11n速率集](docs/计算机网络/802.11n速率集.md)
+- [2.4g和5g无线使用频率](docs/计算机网络/2.4g和5g无线使用频率.md)
 
-
-
-
-## Python
-
-
-
-## javascript
-
-
-
-## lua
-
-
-
-## golang
-
-
+## 杂项笔记
+- [解决博客园表格内容溢出](docs/杂项笔记/解决博客园表格内容溢出.md)
 
 ## 前端技术
+- [JavaScript知识点总结](docs/前端技术/JavaScript知识点总结.md)
+- [JavaScript-原型对象与原型链](docs/前端技术/JavaScript-原型对象与原型链.md)
+- [VUE知识点](docs/前端技术/VUE知识点.md)
+- [HTML知识点总结](docs/前端技术/HTML知识点总结.md)
+- [CSS知识点总结](docs/前端技术/CSS知识点总结.md)
+- [jQuery知识点总结](docs/前端技术/jQuery知识点总结.md)
 
-- [HTML知识点总结](docs\front_end\2019-05-28-HTML知识点总结.md)
-- [离线apt安装升级](docs\linux\离线apt安装升级.md)
-- [离线apt安装升级](docs\linux\离线apt安装升级.md)
+## 网络安全技术
+- [fuzz测试相关](docs/网络安全技术/fuzz测试相关.md)
 
+## Python相关
+- [Requests库使用总结](docs/Python相关/Requests库使用总结.md)
+- [python多进程总结](docs/Python相关/python多进程总结.md)
+- [HTMLTestRunner加入logging输出](docs/Python相关/HTMLTestRunner加入logging输出.md)
+- [django学习笔记（五）——模板](docs/Python相关/django学习笔记（五）——模板.md)
+- [django学习笔记（六）——后台管理](docs/Python相关/django学习笔记（六）——后台管理.md)
+- [Flask简单上手](docs/Python相关/Flask简单上手.md)
+- [python使用openpyxl操作excel总结](docs/Python相关/python使用openpyxl操作excel总结.md)
+- [python多线程总结](docs/Python相关/python多线程总结.md)
+- [Scrapy进阶知识点总结（五）——Settings](docs/Python相关/Scrapy进阶知识点总结（五）——Settings.md)
+- [python手册学习笔记1](docs/Python相关/python手册学习笔记1.md)
+- [Scrapy进阶知识点总结（四）——ItemPipeline](docs/Python相关/Scrapy进阶知识点总结（四）——ItemPipeline.md)
+- [unittest使用数据驱动ddt](docs/Python相关/unittest使用数据驱动ddt.md)
+- [django学习笔记（三）——模型](docs/Python相关/django学习笔记（三）——模型.md)
+- [python协程总结](docs/Python相关/python协程总结.md)
+- [pipdownload命令](docs/Python相关/pipdownload命令.md)
+- [Python类属性与实例属性理解](docs/Python相关/Python类属性与实例属性理解.md)
+- [python中实例方法,类方法,静态方法简单理解](docs/Python相关/python中实例方法,类方法,静态方法简单理解.md)
+- [python手册学习笔记3](docs/Python相关/python手册学习笔记3.md)
+- [web常用自动化库——selenium总结](docs/Python相关/web常用自动化库——selenium总结.md)
+- [一种logging封装方法,不会产生重复log](docs/Python相关/一种logging封装方法,不会产生重复log.md)
+- [python手册学习笔记2](docs/Python相关/python手册学习笔记2.md)
+- [Scrapy简单上手——安装与流程](docs/Python相关/Scrapy简单上手——安装与流程.md)
+- [django学习笔记（四）——视图](docs/Python相关/django学习笔记（四）——视图.md)
+- [request爬虫通用的小技巧](docs/Python相关/request爬虫通用的小技巧.md)
+- [Scrapy进阶知识点总结（一）——基本命令与基本类(spider,request,response)](docs/Python相关/Scrapy进阶知识点总结（一）——基本命令与基本类(spider,request,response).md)
+- [pytest使用总结笔记](docs/Python相关/pytest使用总结笔记.md)
+- [Python正则总结](docs/Python相关/Python正则总结.md)
+- [django学习笔记（一）——流程](docs/Python相关/django学习笔记（一）——流程.md)
+- [unittest使用总结](docs/Python相关/unittest使用总结.md)
+- [Scrapy进阶知识点总结（三）——Items与ItemLoaders](docs/Python相关/Scrapy进阶知识点总结（三）——Items与ItemLoaders.md)
+- [django学习笔记（二）——URL配置](docs/Python相关/django学习笔记（二）——URL配置.md)
+- [vscode配置pytest调试环境](docs/Python相关/vscode配置pytest调试环境.md)
+- [python编程Tips](docs/Python相关/python编程Tips.md)
+- [Scrapy进阶知识点总结（二）——选择器Selectors](docs/Python相关/Scrapy进阶知识点总结（二）——选择器Selectors.md)
+- [Scrapy进阶知识点总结（六）——中间件详解](docs/Python相关/Scrapy进阶知识点总结（六）——中间件详解.md)
+- [xadmin修改list_export_fields不生效以及添加exclude_export_fields功能](docs/Python相关/xadmin修改list_export_fields不生效以及添加exclude_export_fields功能.md)
 
-## Linux
-
-- [离线apt安装升级](docs\linux\离线apt安装升级.md)
-- [dhcpv6+radvd服务器搭建](docs\linux\dhcpv6+radvd服务器搭建.md)
-- [freeradius简单配置](docs\linux\freeradius简单配置.md)
-- [RouterOS安装以及搭建DHCPPPPoEPPTPL2TP服务](docs\linux\RouterOS安装以及搭建DHCPPPPoEPPTPL2TP服务.md)
-- [搭建syslog-ngserver记录log](docs\linux\搭建syslog-ngserver记录log.md)
-- [Ubuntu安装Gitlab简记](docs\linux\2020-01-28-Ubuntu安装Gitlab简记.md)
-- [docker简单上手](docs\linux\2020-01-12-docker简单上手.md)
-- [Jmeter简单使用总结](docs\linux\2019-12-19-Jmeter简单使用总结.md)
-
-
-## 安全技术
+## 计算机基础
+- [Git用法总结](docs/计算机基础/Git用法总结.md)
 
